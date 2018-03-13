@@ -33,11 +33,11 @@ If you are adding a bug report, please add steps to reproduce the bug, exact req
 
 ### The Community:
 
-<a target="_blank" href="http://discord.me/cr_api"><img src="https://discordapp.com/assets/94db9c3c1eba8a38a1fcf4f223294185.png" align="right" height="65px"/></a>If you are interested in talking to the team, we are there on Discord. Feel free to drop by and say hello. Our upcoming features and beta releases are discussed here along with deck advice and Die Hard quotes.
+<a target="_blank" href="http://discord.me/RoyaleAPI"><img src="https://discordapp.com/assets/94db9c3c1eba8a38a1fcf4f223294185.png" align="right" height="65px"/></a>If you are interested in talking to the team, we are there on Discord. Feel free to drop by and say hello. Our upcoming features and beta releases are discussed here along with deck advice and Die Hard quotes.
 
-Join our Discord Server from: <a href="http://discord.me/cr_api">http://discord.me/cr_api</a>.<br />
+Join our Discord Server from: <a href="http://discord.me/RoyaleAPI">http://discord.me/RoyaleAPI</a>.<br />
 
-<a target="_blank" href="https://www.twitter.com/CRPublicAPI"><img src="https://g.twimg.com/dev/img/marketing/twitter-for-websites/header-logo.png" align="right" height="50px"/></a>We are also available as <a href="https://www.twitter.com/CRPublicAPI">@CRPublicAPI</a> on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding cr-api.
+<a target="_blank" href="https://www.twitter.com/RoyaleAPI"><img src="https://g.twimg.com/dev/img/marketing/twitter-for-websites/header-logo.png" align="right" height="50px"/></a>We are also available as <a href="https://www.twitter.com/RoyaleAPI">@RoyaleAPI</a> on Twitter. Feel free to drop in a line wherever it is easiest for you. Twitter would be the best place for you to stay updated with latest news, features and releases regarding RoyaleAPI.
 
 ### Documentation and Tutorials:
 
@@ -48,7 +48,7 @@ If you are looking for more information regarding features and usage of the app,
 
 #### Bug Reports & Feature Requests:
 
-Please use the [issue tracker](https://github.com/cr-api/cr-api/issues) to report any bugs or file feature requests.
+Please use the [issue tracker](https://github.com/RoyaleAPI/cr-api/issues) to report any bugs or file feature requests.
 
 
 #### Development:
@@ -61,7 +61,7 @@ For contribution related matters, please DM Selfish on Discord.
 
 ### Guidelines for reporting issues:
 
-We have put together a short set of guidelines you can follow while adding an issue to our [GitHub issue tracker](https://github.com/cr-api/cr-api/issues). Following this should help speedy resolution of issues.
+We have put together a short set of guidelines you can follow while adding an issue to our [GitHub issue tracker](https://github.com/RoyaleAPI/cr-api/issues). Following this should help speedy resolution of issues.
 
 1. Answer to questions along the lines of "How do I... in cr-api" should be in our online documentation at [https://docs.royaleapi.com](http://docs.royaleapi.com). <!--If you are unable to find a how-to guide in our online documentation, feel free to ask your question on our [Discord Server](#the-community).-->
 
