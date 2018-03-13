@@ -1,5 +1,5 @@
 # CR-API UX Support Tracker
-User Experience and content feedback for http://cr-api.com website. Please use [our API support tracker](https://github.com/cr-api/cr-api) for API issues. This is intended for user experience only.
+User Experience and content feedback for http://royaleapi.com website. Please use [our API support tracker](https://github.com/cr-api/cr-api) for API issues. This is intended for user experience only.
 
 <p align="center" style="pointer-events:none"><img src="https://raw.githubusercontent.com/cr-api/cr-api-docs/master/docs/img/cr-api-logo-b.png" height=
 250px" align="right"></p>
@@ -41,7 +41,7 @@ Join our Discord Server from: <a href="http://discord.me/cr_api">http://discord.
 
 ### Documentation and Tutorials:
 
-If you are looking for more information regarding features and usage of the app, head over to the <a target="_blank" href="https://docs.cr-api.com">docs site</a>.
+If you are looking for more information regarding features and usage of the app, head over to the <a target="_blank" href="https://docs.royaleapi.com">docs site</a>.
 
 
 ### Contribution:
@@ -63,7 +63,7 @@ For contribution related matters, please DM Selfish on Discord.
 
 We have put together a short set of guidelines you can follow while adding an issue to our [GitHub issue tracker](https://github.com/cr-api/cr-api/issues). Following this should help speedy resolution of issues.
 
-1. Answer to questions along the lines of "How do I... in cr-api" should be in our online documentation at [https://docs.cr-api.com](http://docs.cr-api.com). <!--If you are unable to find a how-to guide in our online documentation, feel free to ask your question on our [Discord Server](#the-community).-->
+1. Answer to questions along the lines of "How do I... in cr-api" should be in our online documentation at [https://docs.royaleapi.com](http://docs.royaleapi.com). <!--If you are unable to find a how-to guide in our online documentation, feel free to ask your question on our [Discord Server](#the-community).-->
 
 1. Before reporting an issue use the search feature on the issues page to check if there are issues similar to yours. A lot of issues are duplicates, and it is hard to keep track of them or respond when the issues are solved. If you find your issue already reported, feel free to add "+1" reaction and we will keep a note of it.
 
@@ -75,9 +75,9 @@ We have put together a short set of guidelines you can follow while adding an is
 
 ### About CR-API:
 
-<a href="http://www.cr-api.com">www.cr-api.com</a>
+<a href="http://royaleapi.com">royaleapi.com</a>
 
 ---
 
-[![Analytics](https://ga-beacon.appspot.com/UA-105476425-2/cr-api/readme)](https://docs.cr-api.com)
+[![Analytics](https://ga-beacon.appspot.com/UA-105476425-2/cr-api/readme)](https://docs.royaleapi.com)
 
