@@ -1,0 +1,47 @@
+name: Reddit Alpha Clan Family
+key: racf
+color: red
+track: true
+emblem: A_Char_Rocket_02
+feature: true
+vip: true
+info:
+  logo: /static/img/brands/logo/racf.svg
+  description: >
+    The **Reddit Alpha Clan Family** (RACF) consists of 8 trophy-pushing clans.
+
+    Our clan family is home to many of Clash Royale’s greatest tournament players,
+    three of whom made it to the Crown Duel.
+    We have 2 clans on the **global leaderboard** with **Reddit Alpha** consistently in the top 20
+    and **Reddit Bravo** consistently in the top 200.
+    Every clan in our family finishes the clan crown chest early every time.
+  social:
+    - twitter: http://twitter.com/RedditAlpha
+    - discord: http://discord.gg/racf
+    - twitch: https://www.twitch.tv/woody
+    - reddit: http://www.reddit.com/r/CRRedditAlpha/
+    - youtube: https://www.youtube.com/channel/UCjC5dP9z3XQY6OEPWh5RiLw
+    - website: http://docs.redditalpha.com
+clans:
+  - name: Reddit Alpha
+    tag: 2CCCP
+  - name: Reddit Bravo
+    tag: 2U2GGQJ
+  - name: Reddit Charlie
+    tag: 2QUVVVP
+  - name: Reddit Delta
+    tag: Y8GYCGV
+  - name: Reddit Echo
+    tag: LGVV2CG
+  - name: Reddit Foxtrot
+    tag: QUYCYV8
+  - name: Reddit Golf
+    tag: GUYGVJY
+  - name: Reddit Hotel
+    tag: UGQ28YU
+  - name: RACF Mini
+    tag: 22LR8JJ2
+  - name: RACF Mini2
+    tag: 2Q09VJC8
+  - name: Alpha One
+    tag: 9882PYJU
