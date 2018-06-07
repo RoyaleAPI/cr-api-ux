@@ -1,4 +1,4 @@
-Consult [Family Config docs](https://github.com/RoyaleAPI/cr-api-ux/wiki/Family-Config) and fill in the following information.
+Consult https://github.com/RoyaleAPI/cr-api-ux/wiki/Family-Config and fill in the following information.
 
 ```yaml
 name:
