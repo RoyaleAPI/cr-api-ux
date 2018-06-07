@@ -1,10 +1,7 @@
 name: 100 Thieves Clan Family
 key: 100t
 color: red
-track: true
 emblem: A_Char_Rocket_02
-feature: true
-vip: true
 info:
   logo: /static/img/brands/logo/racf.svg
   description: >

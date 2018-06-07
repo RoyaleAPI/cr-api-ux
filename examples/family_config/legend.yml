@@ -1,9 +1,7 @@
 name: LeGeND Family
 key: legend
 color: yellow
-track: false
 emblem: Flame_03
-feature: true
 info:
   logo: /static/img/brands/logo/legend.png
   description: >

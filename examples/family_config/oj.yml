@@ -1,9 +1,7 @@
 name: Orange Juice
 key: oj
 color: orange
-track: false
 emblem: Orange_01
-feature: true
 sort: trophy
 info:
   logo: /static/img/brands/logo/orangejuice.png

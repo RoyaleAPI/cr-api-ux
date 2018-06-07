@@ -2,8 +2,6 @@ name: Nova eSports
 key: nova
 color: purple
 emblem: Star_Shine_03
-track: false
-feature: true
 sort: trophy
 info:
   logo: /static/img/brands/logo/nova.svg
