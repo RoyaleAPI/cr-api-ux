@@ -1,3 +1,7 @@
+1. Summarize your issue with a descriptive title
+2. Follow the steps below
+
+
 ## Please select one of the following
 
 You can mark it with `[x]` in the text. 
